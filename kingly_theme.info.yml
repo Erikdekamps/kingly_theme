@@ -1,0 +1,22 @@
+name: Kingly Theme
+type: theme
+base theme: olivero
+description: A barebones drupal test theme.
+package: Custom
+core_version_requirement: ^10
+libraries:
+  - kingly_theme/global
+dependencies:
+  - kingly_sdc
+regions:
+  header: 'Header'
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  featured: 'Featured'
+  breadcrumb: 'Breadcrumb'
+  content: 'Content'
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'
+  footer: 'Footer'
