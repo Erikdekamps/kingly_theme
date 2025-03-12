@@ -1,8 +1,8 @@
 {
   "name": "erikdekamps/kingly_theme",
+  "type": "drupal-theme",
   "description": "A barebones drupal theme",
   "keywords": ["recipe", "Drupal base install", "best practices", "simple install"],
-  "type": "drupal-recipe",
   "license": "GPL-2.0-or-later",
   "require": {
     "erikdekamps/kingly_sdc": "dev-main"
