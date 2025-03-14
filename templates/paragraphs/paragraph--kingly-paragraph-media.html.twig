@@ -5,7 +5,7 @@
   not paragraph.isPublished() ? 'paragraph--unpublished'
 ] %}
 
-{% embed "kingly_sdc:text" with {
+{% embed "kingly_sdc:media" with {
   attributes: attributes.addClass(classes),
   content,
   content_attributes,
@@ -15,7 +15,7 @@
   title_suffix
 } only %}
   {% block content %}
-    <div{{ content_attributes.addClass('kingly-text__content') }}>
+    <div{{ content_attributes.addClass('kingly-media__content') }}>
       {{ content }}
     </div>
   {% endblock %}
