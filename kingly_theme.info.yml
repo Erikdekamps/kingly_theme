@@ -5,7 +5,7 @@ description: A barebones drupal test theme.
 package: Custom
 core_version_requirement: ^9 | ^10 | ^11
 libraries:
-  - kingly_theme/global
+  - kingly_theme/kingly_theme
 dependencies:
   - kingly_sdc
 regions:
