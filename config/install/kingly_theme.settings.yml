@@ -165,7 +165,7 @@ primary_menu_alignment: none
 skip_navigation_content: 0
 primary_menu_on_hover: 0
 primary_menu_arrow_hover: 0
-primary_menu_border: 0
+primary_menu_border: 1
 primary_menu_branding: 0
 primary_menu_expand_left: 0
 primary_menu_keyboard: 1
