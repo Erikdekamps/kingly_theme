@@ -16,7 +16,7 @@ site_width_kingly_page: ''
 site_global_breakpoints: sb-992
 site_regions_collapse_order: 0
 site_menu_breakpoints: mn-992
-site_global_regions_gap: '16'
+site_global_regions_gap: 'no'
 site_global_font_size: '16'
 site_node_date_format: solo_date_l
 site_import_google_font: ''
@@ -84,7 +84,7 @@ main_2col: solo-col-2-1
 main_3col: solo-col-1-2-1
 site_regions_main_rounded: radius-8
 site_mobile_layout_order: left_main_right
-site_regions_main_border: 1
+site_regions_main_border: 0
 skip_main_content: 1
 classes_main_container: ''
 settings_main_container___r_bg: ''
