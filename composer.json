@@ -5,6 +5,7 @@
   "keywords": ["recipe", "Drupal base install", "best practices", "simple install"],
   "license": "GPL-2.0-or-later",
   "require": {
+    "drupal/solo": "^1.0",
     "erikdekamps/kingly_sdc": "dev-main"
   }
 }
