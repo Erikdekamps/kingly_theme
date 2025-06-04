@@ -6,11 +6,11 @@ dependencies:
   module:
     - system
   theme:
-    - solo
-id: kingly_theme_main_menu
-theme: solo
+    - kingly_theme
+id: kingly_theme_mainnavigation
+theme: kingly_theme
 region: primary_menu
-weight: 10
+weight: 0
 provider: null
 plugin: 'system_menu_block:main'
 settings:
@@ -20,5 +20,5 @@ settings:
   provider: system
   level: 1
   depth: 0
-  expand_all_items: true
+  expand_all_items: false
 visibility: {  }
