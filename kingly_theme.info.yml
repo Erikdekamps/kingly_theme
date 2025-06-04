@@ -1,12 +1,13 @@
 name: Kingly Theme
 type: theme
-base theme: olivero
+base theme: solo
 description: A barebones drupal test theme.
 package: Custom
 core_version_requirement: ^9 | ^10 | ^11
 libraries:
   - kingly_theme/kingly_theme
 dependencies:
+  - solo
   - kingly_sdc
 regions:
   header: Header
