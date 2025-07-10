@@ -20,7 +20,7 @@ site_global_regions_gap: 'no'
 site_global_font_size: '16'
 site_node_date_format: solo_date_l
 site_import_google_font: ''
-site_css_injector: ''
+site_css_injector: '.page-wrapper .main-navigation-wrapper { z-index: 499 !important; }'
 site_css_dynamic: ''
 site_js_dynamic: ''
 site_login_page_on: 0
