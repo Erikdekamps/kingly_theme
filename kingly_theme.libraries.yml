@@ -1,4 +1,0 @@
-kingly_theme:
-  css:
-    theme:
-      node_modules/@nl-design-system-community/purmerend-design-tokens/dist/theme.css: {}
